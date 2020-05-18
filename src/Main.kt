@@ -1,3 +1,4 @@
+import java.io.BufferedWriter
 import java.io.LineNumberReader
 import java.nio.file.FileSystems
 import java.nio.file.Files
@@ -11,7 +12,7 @@ fun main() {
     val lineNumber = LineNumberReader(reader)
 
     // writer
-    val path2Write = FileSystems.getDefault().getPath("routes_written.txt")
+    val path2Write = FileSystems.getDefault().getPath("routes_written.json")
     val writer = Files.newBufferedWriter(path2Write)
 
     /*
@@ -28,58 +29,57 @@ fun main() {
 
 
     // read each line in the file
+    writer.write("{")
     lineNumber.forEachLine {
         if (lineNumber.lineNumber != 1) {
-            writer.write(it)
-            writer.newLine()
+            matchAndReplace(it, writer)
         }
 
     }
+    writer.write("}")
     writer.close()
 }
 
-val s = ".*?,UON.*?,.*?-.*?,\\d"
-
-fun matchAndReplace(array: String) {
+fun matchAndReplace(array: String, writer: BufferedWriter) {
     val pattern = Pattern.compile("[,]")
     val matched = pattern.split(array)
-    val size = matched.size
-
-    val path2Write = FileSystems.getDefault().getPath("routes_written.txt")
-    val writer = Files.newBufferedWriter(path2Write)
 
     // route ID
-    writer.write("\"" + matched[0] + "\": {")
+    val route_id = matched[0]
+    writer.write("\"" + route_id + "\": {")
     // route End
     writer.write("\"end\": ")
     val end = getEnd(matched[3])
     writer.write("\"" + end + "\",")
     // route name
-    writer.write("\"name\": " + "\"" + matched[3] + "\",")
+    val route_name = matched[3]
+    writer.write("\"name\": " + "\"" + route_name + "\",")
     // route short name
-    writer.write("\"short_name\": " + "\"" + matched[2] + "\",")
+    val routeShortName = matched[2]
+    writer.write("\"short_name\": " + "\"" + routeShortName + "\",")
 
     // route start
     val start = getStart(matched[3])
     writer.write("\"" + "start" + "\": " + "\"" + start + "\"")
 
     // end of this route
-    writer.write("\"}\"")
+    writer.write("},")
+
 
 }
 
 // extract the start of the route from the route name
 fun getStart(routeName: String): String {
-    val pattern = Pattern.compile("[.*?-]")
-    val matched = pattern.matcher(routeName)
+    val pattern = Pattern.compile("[-]")
+    pattern.matcher(routeName)
     val split = pattern.split(routeName)
-    return split[matched.groupCount() - 1]
+    return split[0]
 }
 
 // extract the end of the route from the route name
 fun getEnd(routeName: String): String {
-    val pattern = Pattern.compile(".+?-")
-    val matched = pattern.matcher(routeName)
-    return matched.group()
-
+    val pattern = Pattern.compile("[-]")
+    pattern.matcher(routeName)
+    val split = pattern.split(routeName)
+    return split[split.size - 1]
 }

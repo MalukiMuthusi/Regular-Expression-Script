@@ -18,7 +18,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 20100012111,UON,121, Kaka-Pangani-Muthaiga Roundabout-Kiambu Road-Kiambu Institute-Kiambu-Ndumberi,3
 20100100A11,UON,100A,Ngara-Pangani-Muthaiga Roundabout-Kiambu Road-Kiambu Institute-Kiambu Hospital,3
 20101007700,UON,0027,Kariobangi North - Thika road - Town,3
-20104003910,UON,0039,"Bypass Ruiru, City Cabanas",3
 20400005311,UON,53,Roasters-Thome-Maruirui,3
 20700145D01,UON,145D,Torrents-Membley-Ruiru,3
 20701293011,UON,29/30,Ngara-Pangani-Alssops-Drive in-Mathare,3
@@ -119,7 +118,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 70500004W11,UON,4W,Railways-Ngong Road-Wanyee-Kaberia,3
 70600010211,UON,102,Railways-NgongRoad-Kawangware-Kikuyu,3
 70601000211,UON,2,Railways-Ngong Road-Kawangware-Dagoretti Market,3
-70805046P10,UON,046P,"Ambassadeur,Kabete,Kawangware",3
 70904004810,UON,0048,Yaya-Kasuku-Westlands,3
 80000002311,UON,23KG,Odeon-Chiromo-Westlands-Kangemi,3
 80000011911,UON,119,Koja-Westgate-Wangige,3

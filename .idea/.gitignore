@@ -8,4 +8,6 @@
 /ZeppelinRemoteNotebooks/
 # Editor-based HTTP Client requests
 /httpRequests/
-.*class
+.*.class
+*/out/*
+*.class

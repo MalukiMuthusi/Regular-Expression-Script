@@ -1,0 +1,809 @@
+{
+  "10000107D11": {
+    "end": "Ruiru",
+    "name": "Ruaka-Ruiru",
+    "short_name": "107D",
+    "start": "Ruaka"
+  },
+  "10000114011": {
+    "end": "Limuru",
+    "name": "Ngara-Rwaka-Ndenderu-Limuru",
+    "short_name": "114R",
+    "start": "Ngara"
+  },
+  "10000116011": {
+    "end": "Limuru",
+    "name": "Koja-Ngara-Banana-Limuru",
+    "short_name": "116",
+    "start": "Koja"
+  },
+  "10100011A11": {
+    "end": "Highridge",
+    "name": "Odeon-Aga Khan-Highridge",
+    "short_name": "11A",
+    "start": "Odeon"
+  },
+  "10200010811": {
+    "end": "Gichagi",
+    "name": "UN-New Muthaiga-Gachie-Gichagi",
+    "short_name": "108",
+    "start": "UN"
+  },
+  "10300011F11": {
+    "end": "Ruaka",
+    "name": "Odeon-UN-Ruaka",
+    "short_name": "11B",
+    "start": "Odeon"
+  },
+  "10300106011": {
+    "end": "Banana",
+    "name": "Koja-UN-Ruaka-Banana",
+    "short_name": "106",
+    "start": "Koja"
+  },
+  "10400010711": {
+    "end": "Ndenderu",
+    "name": "Odeon-UN-Ruaka-Ndenderu",
+    "short_name": "107",
+    "start": "Odeon"
+  },
+  "20000002311": {
+    "end": "Westlands",
+    "name": "Nation Building-Museum Hill-Graffins College-Westlands",
+    "short_name": "23W",
+    "start": "Nation Building"
+  },
+  "20000004511": {
+    "end": "KU",
+    "name": "Odeon-Pangani-Roysabu-Githurai-KU",
+    "short_name": "45K",
+    "start": "Odeon"
+  },
+  "20000004512": {
+    "end": "Githurai",
+    "name": "Munyu Road-Pangani-Roysabu-Githurai",
+    "short_name": "45G",
+    "start": "Munyu Road"
+  },
+  "20000004513": {
+    "end": "Proggie",
+    "name": "Githurai-Proggie",
+    "short_name": "45P",
+    "start": "Githurai"
+  },
+  "20000145011": {
+    "end": "Ruiru",
+    "name": "Munyu Road-Pangani-Roysambu-Githurai-KU-Ruiru",
+    "short_name": "145",
+    "start": "Munyu Road"
+  },
+  "20000237011": {
+    "end": "Thika",
+    "name": "Munyu Road-Pangani-Roysabu-Githurai-KU-Ruiru-Juja-Thika",
+    "short_name": "237",
+    "start": "Munyu Road"
+  },
+  "20100010011": {
+    "end": "Kiambu",
+    "name": "O.T.C-Pangani-Muthaiga Roundabout-Kiambu Road-Kiambu Institute-Kiambu",
+    "short_name": "100",
+    "start": "O.T.C"
+  },
+  "20100012011": {
+    "end": "Githunguri",
+    "name": "Kaka-Pangani-Muthaiga Roundabout-Kiambu Road-Kiambu Institute-Kiambu-Githunguri",
+    "short_name": "120",
+    "start": "Kaka"
+  },
+  "20100012111": {
+    "end": "Ndumberi",
+    "name": " Kaka-Pangani-Muthaiga Roundabout-Kiambu Road-Kiambu Institute-Kiambu-Ndumberi",
+    "short_name": "121",
+    "start": " Kaka"
+  },
+  "20100100A11": {
+    "end": "Kiambu Hospital",
+    "name": "Ngara-Pangani-Muthaiga Roundabout-Kiambu Road-Kiambu Institute-Kiambu Hospital",
+    "passes_through": {
+
+    },
+    "short_name": "100A",
+    "start": "Ngara"
+  },
+  "20101007700": {
+    "end": " Town",
+    "name": "Kariobangi North - Thika road - Town",
+    "short_name": "0027",
+    "start": "Kariobangi North "
+  },
+  "20400005311": {
+    "end": "Maruirui",
+    "name": "Roasters-Thome-Maruirui",
+    "short_name": "53",
+    "start": "Roasters"
+  },
+  "20700145D01": {
+    "end": "Ruiru",
+    "name": "Torrents-Membley-Ruiru",
+    "short_name": "145D",
+    "start": "Torrents"
+  },
+  "20701293011": {
+    "end": "Mathare",
+    "name": "Ngara-Pangani-Alssops-Drive in-Mathare",
+    "short_name": "29/30",
+    "start": "Ngara"
+  },
+  "20702000611": {
+    "end": "Eastleigh",
+    "name": "Koja-Pangani Flyover-Guru Nanak-Pangani Girls High School-Mlango-Eastleigh",
+    "short_name": "6",
+    "start": "Koja"
+  },
+  "20800203001": {
+    "end": "Rounda",
+    "name": "Allsops-Rounda",
+    "short_name": "2030",
+    "start": "Allsops"
+  },
+  "20801002511": {
+    "end": "Baba Dogo",
+    "name": "Odeon-Pangani-Alssops-Baba Dogo",
+    "short_name": "25",
+    "start": "Odeon"
+  },
+  "20801025A11": {
+    "end": "Lucky Summer",
+    "name": "Odeon-Pangani-Alssops-Baba Dogo-Lucky Summer",
+    "short_name": "25A",
+    "start": "Odeon"
+  },
+  "20807042011": {
+    "end": "Dandora",
+    "name": "Allsops-Rounda-Dandora",
+    "short_name": "42",
+    "start": "Allsops"
+  },
+  "20901043011": {
+    "end": "Ngumba",
+    "name": "Bus Station-Pangani-Allsops-Ngumba",
+    "short_name": "43",
+    "start": "Bus Station"
+  },
+  "21000004911": {
+    "end": "Sunton",
+    "name": "Odeon-Pangani-Roysambu-Kasarani-Sunton",
+    "short_name": "49",
+    "start": "Odeon"
+  },
+  "21000017B11": {
+    "end": "Mwiki",
+    "name": "Bus Station-Pangani-Roysambu-Kasarani-Mwiki",
+    "short_name": "17B",
+    "start": "Bus Station"
+  },
+  "21100004411": {
+    "end": "KU",
+    "name": "Odeon-Pangani-Roysambu-Githurai-KU",
+    "short_name": "44G",
+    "start": "Odeon"
+  },
+  "21100004412": {
+    "end": "KU",
+    "name": "Odeon-Pangani-Roysambu-Zimmerman-KU",
+    "short_name": "44Z",
+    "start": "Odeon"
+  },
+  "21100004421": {
+    "end": "KU",
+    "name": "Roysambu-Githurai-KU",
+    "short_name": "44K",
+    "start": "Roysambu"
+  },
+  "21200017B12": {
+    "end": "Mwiki",
+    "name": "Roysambu-Sunton-Kasarani-Mwiki",
+    "short_name": "17B_2",
+    "start": "Roysambu"
+  },
+  "30000004611": {
+    "end": "Huruma",
+    "name": "Ronald Ngala-Juja Road-Eastleigh-Huruma",
+    "short_name": "46H",
+    "start": "Ronald Ngala"
+  },
+  "30000046B11": {
+    "end": "Rounda",
+    "name": "Ronald Ngala-Juja Road-Eastleigh-Rounda",
+    "short_name": "46B",
+    "start": "Ronald Ngala"
+  },
+  "30007004111": {
+    "end": "Dandora",
+    "name": "Gikomba-Rounda-Dandora",
+    "short_name": "41",
+    "start": "Gikomba"
+  },
+  "30100000711": {
+    "end": "Gikomba",
+    "name": "Town-Kariokor DC-Gikomba",
+    "short_name": "7",
+    "start": "Town"
+  },
+  "30100011C11": {
+    "end": "Pangani Terminus",
+    "name": "Odeon-Pangani Flyover-Pangani Girls High School-Mlango-Pangani Terminus",
+    "short_name": "11C",
+    "start": "Odeon"
+  },
+  "30101000311": {
+    "end": "Ngara",
+    "name": "Gikomba-Kariokor-Ngara",
+    "short_name": "3N",
+    "start": "Gikomba"
+  },
+  "30600017A11": {
+    "end": "Kayole",
+    "name": "EastLeigh-Rounda-Umoja 2-Kayole",
+    "short_name": "17Aky",
+    "start": "EastLeigh"
+  },
+  "30600018C11": {
+    "end": "Kayole",
+    "name": "Eastleigh-Rounda-Dandora-Kayole",
+    "short_name": "18C",
+    "start": "Eastleigh"
+  },
+  "30600186211": {
+    "end": "Kayole",
+    "name": "Bus Station-Rounda-Dandora-Kayole",
+    "short_name": "16/62",
+    "start": "Bus Station"
+  },
+  "30603373812": {
+    "end": "Ruai",
+    "name": "Rounda-Saika-Ruai",
+    "short_name": "3738",
+    "start": "Rounda"
+  },
+  "30800001411": {
+    "end": "Kariobangi",
+    "name": "Ronald Ngala-Juja Road-Eastleigh-Huruma-Kariobangi",
+    "short_name": "14",
+    "start": "Ronald Ngala"
+  },
+  "30800002811": {
+    "end": "Kariobangi",
+    "name": "Gikomba-Eastleigh-Huruma-Kariobangi",
+    "short_name": "28",
+    "start": "Gikomba"
+  },
+  "30907003211": {
+    "end": "Dandora",
+    "name": "OTC-Kariokor-Mlango-Rounda-Dandora",
+    "short_name": "32D",
+    "start": "OTC"
+  },
+  "40100003311": {
+    "end": "Pipeline",
+    "name": "Muthurwa-Donholm-Pipeline",
+    "short_name": "33DP",
+    "start": "Muthurwa"
+  },
+  "40101040501": {
+    "end": "Nyayo Stadium",
+    "name": "City Stadium-Nyayo Stadium",
+    "short_name": "405",
+    "start": "City Stadium"
+  },
+  "40102040511": {
+    "end": "GM",
+    "name": "Muthurwa-Hillocks-GM",
+    "short_name": "69",
+    "start": "Muthurwa"
+  },
+  "40200000601": {
+    "end": "Joster",
+    "name": "Church Army-Biafra-Joster",
+    "short_name": "6E",
+    "start": "Church Army"
+  },
+  "40201002311": {
+    "end": "Kariobangi South",
+    "name": "Gill House-Jogoo Road-Shauri Moyo-Jerusalem-Buruburu-Kariobangi South",
+    "short_name": "23KS",
+    "start": "Gill House"
+  },
+  "40301707111": {
+    "end": "Lunga Lunga",
+    "name": "Muthurwa-Likoni-Sinai-Lunga Lunga",
+    "short_name": "70/71",
+    "start": "Muthurwa"
+  },
+  "40401001011": {
+    "end": "Maringo",
+    "name": "Muthurwa-Makadara-Maringo",
+    "short_name": "10",
+    "start": "Muthurwa"
+  },
+  "40403002611": {
+    "end": "Kariobangi",
+    "name": "Aquinas-Jerusalem-Outering-Kariobangi",
+    "short_name": "26S",
+    "start": "Aquinas"
+  },
+  "40501002611": {
+    "end": "Kariobangi",
+    "name": "Makadara-Harambee-Outering-Kariobangi",
+    "short_name": "26",
+    "start": "Makadara"
+  },
+  "40601003611": {
+    "end": "Dandora",
+    "name": "City Stadium-Buruburu-Kwa Mbao-Dandora",
+    "short_name": "36",
+    "start": "City Stadium"
+  },
+  "40601005811": {
+    "end": "Buruburu",
+    "name": "Ambassadeur-Jogoo Road-Buruburu",
+    "short_name": "58",
+    "start": "Ambassadeur"
+  },
+  "40700003311": {
+    "end": "Carbanas",
+    "name": "Donholm-Rounda-Carbanas",
+    "short_name": "33DC",
+    "start": "Donholm"
+  },
+  "40700003411": {
+    "end": "JKIA",
+    "name": "Ambassadeur-Donholm-Rounda-JKIA",
+    "short_name": "34J",
+    "start": "Ambassadeur"
+  },
+  "40700033C11": {
+    "end": "Cabanas",
+    "name": "Commercial-Jogoo Road-Pipeline-Cabanas",
+    "short_name": "33C",
+    "start": "Commercial"
+  },
+  "40701003311": {
+    "end": "Gate B",
+    "name": "Accra Road-Jogoo Road-Donholm-Fedha-Gate B",
+    "short_name": "33GTB",
+    "start": "Accra Road"
+  },
+  "40702002001": {
+    "end": "Mwiki",
+    "name": "Mama Lucy Hospital-Kayole-Njiru-Mwiki",
+    "short_name": "20",
+    "start": "Mama Lucy Hospital"
+  },
+  "40702034B11": {
+    "end": "Jacaranda",
+    "name": "Ambassadeur-Donholm-Jacaranda",
+    "short_name": "34B",
+    "start": "Ambassadeur"
+  },
+  "40702196111": {
+    "end": "Kayole",
+    "name": "Landhies Road-Jogoo Road-Jacaranda-Kayole",
+    "short_name": "1961K",
+    "start": "Landhies Road"
+  },
+  "40702196112": {
+    "end": "Kayole",
+    "name": "Caltex Donholm-Jacaranda-Kayole",
+    "short_name": "1961Kd",
+    "start": "Caltex Donholm"
+  },
+  "40703196011": {
+    "end": "Kayole",
+    "name": "OTC-Donholm-Kayole",
+    "short_name": "1960",
+    "start": "OTC"
+  },
+  "40704356001": {
+    "end": "Umoja 2",
+    "name": "Donholm-Mutindwa-Umoja 2",
+    "short_name": "3560_2",
+    "start": "Donholm"
+  },
+  "40704356011": {
+    "end": "Umoja",
+    "name": "Town-Donholm-Umoja",
+    "short_name": "35/60",
+    "start": "Town"
+  },
+  "4070500SK11": {
+    "end": "Kayole Junction",
+    "name": "Ronald Ngala-Jogoo Road-Kangundo Road-Saika-Kayole Junction",
+    "short_name": "39SK",
+    "start": "Ronald Ngala"
+  },
+  "40705017A01": {
+    "end": "Kayole",
+    "name": "Rounda-Umoja 2-Kayole",
+    "short_name": "17A",
+    "start": "Rounda"
+  },
+  "40705019C11": {
+    "end": "Komarocks",
+    "name": "Ambassadeur-Jogoo Road-Donholm-Caltex-Komarocks",
+    "short_name": "19Cdc",
+    "start": "Ambassadeur"
+  },
+  "4070519C211": {
+    "end": "Komarocks",
+    "name": "Donholm-Caltex-Komarocks",
+    "short_name": "19C2",
+    "start": "Donholm"
+  },
+  "40705383911": {
+    "end": "Ruai",
+    "name": "Town-Donholm-Njiru-Ruai",
+    "short_name": "38/39",
+    "start": "Town"
+  },
+  "50000002412": {
+    "end": "Karen",
+    "name": "Bomas-Karen Hospital-Karen",
+    "short_name": "24BK",
+    "start": "Bomas"
+  },
+  "50100001111": {
+    "end": "Hazina",
+    "name": "Bus Station-Industrial Area-South B-Hazina",
+    "short_name": "11",
+    "start": "Bus Station"
+  },
+  "50100001121": {
+    "end": "Hazina",
+    "name": "Town-Industrial Area-Mater-Railways Training Institute-Balozi-Hazina",
+    "short_name": "11_2",
+    "start": "Town"
+  },
+  "50201014A11": {
+    "end": "Strathmore",
+    "name": "Bus Station-Nairobi West-Madaraka-Strathmore",
+    "short_name": "14A",
+    "start": "Bus Station"
+  },
+  "50201014B11": {
+    "end": "TMall",
+    "name": "Bus Station-Nairobi West-TMall",
+    "short_name": "14B",
+    "start": "Bus Station"
+  },
+  "50203001611": {
+    "end": "Highrise",
+    "name": "Bus Station-Nyayo Stadium-T Mall-Highrise",
+    "short_name": "16",
+    "start": "Bus Station"
+  },
+  "50204001511": {
+    "end": "Langata",
+    "name": "Bus Station-Nyayo Stadium-Wilson-Langata",
+    "short_name": "15",
+    "start": "Bus Station"
+  },
+  "50205012511": {
+    "end": "Ongata Rongai",
+    "name": "Railways-Langata Road-Bomas-Ongata Rongai",
+    "short_name": "125",
+    "start": "Railways"
+  },
+  "50205012601": {
+    "end": "Kiserian",
+    "name": "Ongata Rongai-Nkoroi-Kiserian",
+    "short_name": "126RK",
+    "start": "Ongata Rongai"
+  },
+  "50205012611": {
+    "end": "Kiserian",
+    "name": "Railways-Langata Road-Ongata Rongai-Kiserian",
+    "short_name": "126",
+    "start": "Railways"
+  },
+  "50206002411": {
+    "end": "Karen",
+    "name": "Ambassadeur-Nyayo Stadium-Bomas-Hardy-Karen",
+    "short_name": "24",
+    "start": "Ambassadeur"
+  },
+  "50300012C11": {
+    "end": "Mugoya",
+    "name": "Bus Station-Red Cross-Mugoya",
+    "short_name": "12C",
+    "start": "Bus Station"
+  },
+  "50301012D11": {
+    "end": "Amboseli",
+    "name": "Bus Station-Red Cross-KPA-College Of Insurance-Amboseli",
+    "short_name": "12D",
+    "start": "Bus Station"
+  },
+  "50600003311": {
+    "end": "Imara Daima",
+    "name": "Commercial-Belleview-Imara Daima",
+    "short_name": "33IMR",
+    "start": "Commercial"
+  },
+  "50600033A11": {
+    "end": "St.Bakhita",
+    "name": "Bus Station-Mombasa Road-Imara Daima-St.Bakhita",
+    "short_name": "33MKR",
+    "start": "Bus Station"
+  },
+  "50700003311": {
+    "end": "Ambassadeur",
+    "name": "Utawala-Ambassadeur",
+    "short_name": "33UTW",
+    "start": "Utawala"
+  },
+  "50700014501": {
+    "end": "Ruiru",
+    "name": "Bypass-Ruiru Ndani-Ruiru",
+    "short_name": "145B",
+    "start": "Bypass"
+  },
+  "50700033H01": {
+    "end": "Bypass",
+    "name": "Cabanas-Utawala-Bypass",
+    "short_name": "33H",
+    "start": "Cabanas"
+  },
+  "50701003311": {
+    "end": "Pipeline",
+    "name": "Commercial-Mombasa Road-Taj Mall-Pipeline",
+    "short_name": "33TP",
+    "start": "Commercial"
+  },
+  "50702003311": {
+    "end": "Posta",
+    "name": "Commercial-Cabanas-Tuskys-Village-Gate A-Posta",
+    "short_name": "33FED",
+    "start": "Commercial"
+  },
+  "50703033C11": {
+    "end": "Baraka",
+    "name": "Commercial-Cabanas-Baraka",
+    "short_name": "33B",
+    "start": "Commercial"
+  },
+  "50703033J01": {
+    "end": "Githunguri",
+    "name": "Cabanas-Utawala-Githunguri",
+    "short_name": "33J",
+    "start": "Cabanas"
+  },
+  "50800011011": {
+    "end": "Kitengela",
+    "name": "Railways-Mombasa Road-Mlolongo-Kitengela",
+    "short_name": "110",
+    "start": "Railways"
+  },
+  "50901011011": {
+    "end": "Makadara",
+    "name": "Railways-Mombasa Road-Devki-Makadara",
+    "short_name": "110ATH",
+    "start": "Railways"
+  },
+  "50901011012": {
+    "end": "Kitengela",
+    "name": "Athi River-Makadara-Kitengela",
+    "short_name": "110AK",
+    "start": "Athi River"
+  },
+  "60000004611": {
+    "end": "Yaya Centre",
+    "name": "Kencom-Valley Road-Hurlinghum-Yaya Centre",
+    "short_name": "46Y",
+    "start": "Kencom"
+  },
+  "60101007C11": {
+    "end": "Kenyatta National Hospital",
+    "name": "Kencom-Community-Equity Center-Kenyatta National Hospital",
+    "short_name": "7C",
+    "start": "Kencom"
+  },
+  "60200004611": {
+    "end": "Kawangware",
+    "name": "Kencom-Valley Road-Yaya Centre-Kawangware",
+    "short_name": "46K",
+    "start": "Kencom"
+  },
+  "60201005611": {
+    "end": "Kanungaga",
+    "name": "Town-Yaya-Congo-Kanungaga",
+    "short_name": "56",
+    "start": "Town"
+  },
+  "70000000311": {
+    "end": "Uthiru",
+    "name": "Dagoretti Corner-Naivasha Road-Uthiru",
+    "short_name": "3U/3",
+    "start": "Dagoretti Corner"
+  },
+  "70000010311": {
+    "end": "Wangige",
+    "name": "Dagoretti Market-Uthiru-Kinoo-Wangige",
+    "short_name": "103",
+    "start": "Dagoretti Market"
+  },
+  "70000012911": {
+    "end": "Wangige",
+    "name": "Kikuyu-Magu-Kingeero-Wangige",
+    "short_name": "129",
+    "start": "Kikuyu"
+  },
+  "70000203311": {
+    "end": "Ngumo",
+    "name": "Racecourse Road-Ngong Road-KNH-Ngumo",
+    "short_name": "33NG",
+    "start": "Racecourse Road"
+  },
+  "70100203411": {
+    "end": "Langata",
+    "name": "Kenyatta National Hospital-Mbagathi Road-Wilson Airport-Langata",
+    "short_name": "34L",
+    "start": "Kenyatta National Hospital"
+  },
+  "70101013301": {
+    "end": "South B",
+    "name": "Ngumo-Highrise-Nairobi West-Couth C-South B",
+    "short_name": "33SB",
+    "start": "Ngumo"
+  },
+  "70200000811": {
+    "end": "Kibera",
+    "name": "Railways-Ngong Road-Kibera",
+    "short_name": "8",
+    "start": "Railways"
+  },
+  "70200003211": {
+    "end": "Ayani",
+    "name": "Kencom-Community-KNH-Ngong Road-Ayani",
+    "short_name": "32A",
+    "start": "Kencom"
+  },
+  "70201024C11": {
+    "end": "Hardy",
+    "name": "Kencom-Valley Road-Ngong Road-Karen-Hardy",
+    "short_name": "24C",
+    "start": "Kencom"
+  },
+  "70301000511": {
+    "end": "Jamhuri",
+    "name": "Town-Kenyatta-Adams-Jamhuri",
+    "short_name": "5",
+    "start": "Town"
+  },
+  "70400011111": {
+    "end": "Ngong",
+    "name": "Railways-Ngong Road-Karen-Ngong",
+    "short_name": "111",
+    "start": "Railways"
+  },
+  "70400012611": {
+    "end": "Kiserian",
+    "name": "Ngong-Kiserian",
+    "short_name": "126N",
+    "start": "Ngong"
+  },
+  "70401000111": {
+    "end": "Dagoretti Market",
+    "name": "Karen-Karinde-Dagoretti Market",
+    "short_name": "1",
+    "start": "Karen"
+  },
+  "70500004W11": {
+    "end": "Kaberia",
+    "name": "Railways-Ngong Road-Wanyee-Kaberia",
+    "short_name": "4W",
+    "start": "Railways"
+  },
+  "70600010211": {
+    "end": "Kikuyu",
+    "name": "Railways-NgongRoad-Kawangware-Kikuyu",
+    "short_name": "102",
+    "start": "Railways"
+  },
+  "70601000211": {
+    "end": "Dagoretti Market",
+    "name": "Railways-Ngong Road-Kawangware-Dagoretti Market",
+    "short_name": "2",
+    "start": "Railways"
+  },
+  "70904004810": {
+    "end": "Westlands",
+    "name": "Yaya-Kasuku-Westlands",
+    "short_name": "0048",
+    "start": "Yaya"
+  },
+  "80000002311": {
+    "end": "Kangemi",
+    "name": "Odeon-Chiromo-Westlands-Kangemi",
+    "short_name": "23KG",
+    "start": "Odeon"
+  },
+  "80000011911": {
+    "end": "Wangige",
+    "name": "Koja-Westgate-Wangige",
+    "short_name": "119",
+    "start": "Koja"
+  },
+  "80000114011": {
+    "end": "Limuru",
+    "name": "Ngara-Westlands-Kangemi-Limuru",
+    "short_name": "114W",
+    "start": "Ngara"
+  },
+  "80000115011": {
+    "end": "Limuru",
+    "name": "Koja-Westlands-Kangemi-Limuru",
+    "short_name": "115",
+    "start": "Koja"
+  },
+  "80000119A11": {
+    "end": "Gathiga",
+    "name": "Town-Westlands-Peponi Road-Spring Valley-ISK-Gathiga",
+    "short_name": "119A",
+    "start": "Town"
+  },
+  "80000135011": {
+    "end": "Limuru",
+    "name": "Kaka-Westlands-Kangemi-Limuru",
+    "short_name": "135",
+    "start": "Kaka"
+  },
+  "80100011811": {
+    "end": "Wangige",
+    "name": "Koja-Westlands-Kabete-Wangige",
+    "short_name": "118",
+    "start": "Koja"
+  },
+  "80100048A11": {
+    "end": "Lavington",
+    "name": "Odeon-Chiromo-Strathmore School-Lavington",
+    "short_name": "48A",
+    "start": "Odeon"
+  },
+  "80101004811": {
+    "end": "Othaya Road",
+    "name": "Odeon-Chiromo-Kileleshwa-Othaya Road",
+    "short_name": "48O",
+    "start": "Odeon"
+  },
+  "80101048B11": {
+    "end": "Othaya Road",
+    "name": "Odeon-Chiromo-Westlands Bypass-Methodist Guesthouse-Othaya Road",
+    "short_name": "48B",
+    "start": "Odeon"
+  },
+  "80200004811": {
+    "end": "Kawangware",
+    "name": "Westlands-ABC Place-Lavington-Kawangware",
+    "short_name": "48K",
+    "start": "Westlands"
+  },
+  "80200048C11": {
+    "end": "Yaya",
+    "name": "Odeon-Chiromo-Westlands-ByPass-Yaya",
+    "short_name": "48C",
+    "start": "Odeon"
+  },
+  "80400003011": {
+    "end": "Uthiru",
+    "name": "Odeon-Westlands-Kangemi-Uthiru",
+    "short_name": "30",
+    "start": "Odeon"
+  },
+  "80500010511": {
+    "end": "Kikuyu",
+    "name": "Odeon-Westlands-Kangemi-Kinoo-Regen-Kikuyu",
+    "short_name": "105",
+    "start": "Odeon"
+  }
+}
